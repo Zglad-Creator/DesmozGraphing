@@ -1,7 +1,7 @@
 # DesmozGraphing  
 A Desmos Mirror. All credits to desmos.  
 **Update 0.4.3** Fixed memory saver bug by deleting previous iframe
-**Update 0.4.1** Added iframe change option and memory saver option**
+**Update 0.4.1** Added iframe change option and memory saver option
 **Update 0.3.7** Major update: Added a Settings Panel with cloaking features**
 **Update 0.3.4:** Switched up the z index of elements 
 **Update 0.3.3:** Added animation for switching between calculator and website  
