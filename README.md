@@ -1,7 +1,7 @@
 # DesmozGraphing  
 A Desmos Mirror. All credits to desmos.  
 
-**Update 0.4.3** Fixed memory saver bug by deleting previous iframe
+**Update 0.4.3** Fixed memory saver bug by deleting previous iframe correctly
 
 **Update 0.4.1** Added iframe change option and memory saver option
 
